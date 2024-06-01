@@ -17,6 +17,10 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 
 6. In `launchcontrol_master.tox`, set the `Device ID` and `MIDI Channel` of your LaunchControl XL.
 
+    If the utility doesn't work correctly, press `Reset` in `launchcontrol_master.tox`.
+
+7. Place `launchcontrol_select.tox` anywhere you want to assign the value of the knobs or sliders.
+
 
 
 ## License
