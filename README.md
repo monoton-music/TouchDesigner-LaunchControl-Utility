@@ -6,8 +6,7 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 ## License
 MIT Lisence
 
-## About Me
-monoton  
+## About monoton
 [Linktree](https://linktr.ee/monoton)
 
 ### Support me
