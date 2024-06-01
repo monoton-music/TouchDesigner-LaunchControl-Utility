@@ -30,22 +30,17 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
     - Depth Level: Set the number of levels up in the directory hierarchy from the current location of `launchcontrol_select.tox` to where `launchcontrol_master.tox` is located. For example, if `launchcontrol_master.tox` is located two levels up, set `Depth Level` to `2`.
     - Control Group: Select the group of the desired knob or slider.
     - Control Number: Select the number of the desired knob or slider.
-    - Output Mode: You can choose one of the following modes:
+    - Output Mode: Choose one of the following modes:
         - Unipolar: Output values linearly within the `Unipolar Range`.
         - Bipolar (Only for knobs): Output `Bipolar Center` when the knob is set to the center click position and output within the range of `Bipolar Range`.
-        - Exponential: Output values exponentially within the specified range.
+        - Exponential: Output values exponentially with the ratio of `Exponential Min-Max Ratio` within `Exponential Range`.
     - Output Lag: Set the lag time for the output.
     - Output Filter Width: Set the width of the filter applied to the output.
 
-
-11. Use the values from the knobs or sliders by either:
+10. Use the values from the knobs or sliders by either:
 
     - Connecting to the output of `launchcontrol_select.tox`.
     - Using Export CHOP directly from `launchcontrol_select.tox`.
-
-
-
-
 
 ## License
 MIT Lisence
