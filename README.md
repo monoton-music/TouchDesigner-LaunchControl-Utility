@@ -2,7 +2,9 @@
 A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing easy mapping of knobs and sliders.
 
 ## Japanese Documentation
-For the Japanese version of the documentation, please refer to [README_JP.md](README_JP.md).
+日本語のドキュメント：[README_JP.md](README_JP.md).
+日本語のドキュメントは英語版から情報を抜粋していたり、更新が遅れていたりすることがあります。
+参考までにご覧ください。正確な情報については以下の英語版をご覧ください。
 
 ## Usage
 
