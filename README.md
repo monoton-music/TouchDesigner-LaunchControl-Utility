@@ -20,9 +20,7 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 
 5. Place `launchcontrol_select.tox` anywhere you want to assign the value of the knobs or sliders.
 
-6. Open `Custom` page in `launchcontrol_select.tox`.
-
-7. Set the following parameters:
+6. Open `Custom` page in `launchcontrol_select.tox` and set the following parameters:
 
     - **Master OP Name**: Enter `LaunchControl_master`.
     - **Depth Level**: Set the number of levels up in the directory hierarchy from the current location of `launchcontrol_select.tox` to where `launchcontrol_master.tox` is located. For example, if `launchcontrol_master.tox` is located two levels up, set `Depth Level` to `2`.
@@ -35,7 +33,7 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
     - **Output Lag**: Set the lag time for the output.
     - **Output Filter Width**: Set the width of the filter applied to the output.
 
-8. Use the values from the knobs or sliders by either:
+7. Use the values from the knobs or sliders by either:
 
     - Connecting to the output of `launchcontrol_select.tox`.
     - Using Export CHOP directly from `launchcontrol_select.tox`.
