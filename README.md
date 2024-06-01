@@ -6,7 +6,9 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 ## License
 MIT Lisence
 
-## About monoton
+## About Owner
+monoton
+music producer, DJ & VJ, (virtual) experience design, generative visual design
 [Linktree](https://linktr.ee/monoton)
 
 ### Support me
