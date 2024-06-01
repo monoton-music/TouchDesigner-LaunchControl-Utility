@@ -24,7 +24,7 @@ MIT Lisence
 
 ## About Owner
 monoton
-music producer, DJ & VJ, (virtual) experience design, generative visual design
+music producer, DJ & VJ, (virtual) experience design, generative visual design <br>
 [Linktree](https://linktr.ee/monoton)
 
 ### Support me
