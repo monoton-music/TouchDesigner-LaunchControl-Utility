@@ -2,6 +2,7 @@
 A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing easy mapping of knobs and sliders.
 
 ## Usage
+1. Put launchcontrol_master.tox at the same level or a higher level in the directory hierarchy of the path where you will use this utility within your TouchDesigner project. For example, you may put it in `project1`.
 
 ## License
 MIT Lisence
