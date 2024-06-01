@@ -4,7 +4,7 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 ## Usage
 
 ## License
-MIT 3.0
+MIT Lisence
 
 ## About Me
 monoton  
