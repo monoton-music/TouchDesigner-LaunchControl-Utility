@@ -1,6 +1,9 @@
 # TD-LaunchControl-utility
 A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing easy mapping of knobs and sliders.
 
+## Japanese Documentation
+For the Japanese version of the documentation, please refer to [README_JP.md](README_JP).
+
 ## Usage
 
 1. Connect LaunchControl XL to your computer.
@@ -53,6 +56,3 @@ music producer, DJ & VJ, (virtual) experience design, generative visual design
 If you find this project useful, please consider buying me a coffee!
 
 <a href="https://www.buymeacoffee.com/monoton" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## 日本語版
-For the Japanese version of the documentation, please refer to [README_JP.md](README_JP.md).
