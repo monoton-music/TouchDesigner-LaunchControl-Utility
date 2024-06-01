@@ -1,5 +1,5 @@
 日本語版ドキュメントは英語版から情報を抜粋していたり、更新が遅れていたりすることがあります。<br>
-参考までにご覧ください。正確な情報については以下の英語版をご覧ください。
+参考までにご覧ください。より正確な情報については[README.md](README.md)をご覧ください。
 
 # TouchDesigner-LaunchControl-Utility
 Novation LaunchControl XLをTouchDesignerと統合し、ノブやスライダーの簡単なマッピングを可能にするユーティリティです。
