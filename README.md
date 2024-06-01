@@ -2,9 +2,14 @@
 A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing easy mapping of knobs and sliders.
 
 ## Japanese Documentation
-[日本語版ドキュメント](README_JP.md)
+日本語のドキュメント（参考版）もあります。<br>
+[日本語ドキュメント](README_JP.md)
+
+## Competability
+This tool is comfirmed to work with Novation LaunchControl XL MK2. Other types of LaunchControl XL may not competable with this tool.
 
 ## Usage
+For detailed instruction and example, open `example.toe` and see inside the project.
 
 1. Connect LaunchControl XL to your computer and set your LaunchControl XL to `User Mode 1`.
 
@@ -41,8 +46,8 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 ## License
 MIT License
 
-## About Owner
-monoton  
+## About Developer
+### monoton  
 music producer, DJ & VJ, (virtual) experience design, generative visual design  
 [Linktree](https://linktr.ee/monoton)
 
