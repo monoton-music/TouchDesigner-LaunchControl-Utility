@@ -8,7 +8,7 @@ MIT 3.0
 
 ## About Me
 monoton 
-[Linktree] (https://linktr.ee/monoton)
+[Linktree](https://linktr.ee/monoton)
 
 ### Support me
 If you find this project useful, please consider buying me a coffee!
