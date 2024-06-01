@@ -3,7 +3,7 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 
 ## Japanese Documentation
 日本語のドキュメント：[README_JP.md](README_JP.md). <br>
-日本語のドキュメントは英語版から情報を抜粋していたり、更新が遅れていたりすることがあります。
+日本語のドキュメントは英語版から情報を抜粋していたり、更新が遅れていたりすることがあります。<br>
 参考までにご覧ください。正確な情報については以下の英語版をご覧ください。
 
 ## Usage
