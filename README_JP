@@ -13,13 +13,7 @@ Novation LaunchControl XLをTouchDesignerと統合し、ノブやスライダー
 
 5. TouchDesignerプロジェクト内でこのユーティリティを使用するパスのディレクトリ階層の同じレベルまたは上位レベルに`launchcontrol_master.tox`を配置します。
 
-    例えば、`project1`に配置します:
-    ```
-    /project1
-        /launchcontrol_master.tox
-        /YourProjectFile.toe
-        /OtherFilesAndFolders
-    ```
+    例えば、`project1`に配置します。
 
 6. `launchcontrol_master.tox`で、LaunchControl XLの`Device ID`と`MIDI Channel`を設定します。
 
