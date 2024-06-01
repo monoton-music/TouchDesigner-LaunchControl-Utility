@@ -3,28 +3,31 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 
 ## Usage
 
-1. **Connect LaunchControl XL to your computer.**
+## Usage
 
-2. **Set your LaunchControl XL to `User Mode 1`.**
+1. Connect LaunchControl XL to your computer.
 
-3. **In TouchDesigner, navigate to the `Dialogues` menu and select `MIDI Device Mapper`.**
+2. Set your LaunchControl XL to `User Mode 1`.
 
-4. **Create a new mapping and set the `Input Device` to `LaunchControl XL`.**
+3. In TouchDesigner, navigate to the `Dialogues` menu and select `MIDI Device Mapper`.
 
-5. **Place `launchcontrol_master.tox` at the same level or a higher level in the directory hierarchy of the path where you will use this utility within your TouchDesigner project.**
+4. Create a new mapping and set the `Input Device` to `LaunchControl XL`.
+
+5. Place `launchcontrol_master.tox` at the same level or a higher level in the directory hierarchy of the path where you will use this utility within your TouchDesigner project.
 
     For example, you may put it in `project1`.
 
-6. **In `launchcontrol_master.tox`, set the `Device ID` and `MIDI Channel` of your LaunchControl XL.**
+6. In `launchcontrol_master.tox`, set the `Device ID` and `MIDI Channel` of your LaunchControl XL.
 
     If the utility doesn't work correctly, press `Reset` in `launchcontrol_master.tox`.
 
-7. **Place `launchcontrol_select.tox` anywhere you want to assign the value of the knobs or sliders.**
+7. Place `launchcontrol_select.tox` anywhere you want to assign the value of the knobs or sliders.
 
-8. **Use the values from the knobs or sliders by either:**
+8. Use the values from the knobs or sliders by either:
 
-    - **Connecting to the output of `launchcontrol_select.tox`.**
-    - **Using an Export CHOP directly from the Base COMP in `launchcontrol_select.tox`.**
+    - Connecting to the output of `launchcontrol_select.tox`.
+    - Using an Export CHOP directly from the Base COMP in `launchcontrol_select.tox`.
+
 
 
 
