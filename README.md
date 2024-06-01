@@ -15,8 +15,7 @@ A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing
 
     For example, you may put it in `project1`.
 
-6. Set the `Device ID` and `MIDI Channel` of your LaunchControl XL.
-
+6. In `launchcontrol_master.tox`, set the `Device ID` and `MIDI Channel` of your LaunchControl XL.
 
 
 
