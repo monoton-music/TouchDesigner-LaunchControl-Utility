@@ -2,6 +2,9 @@
 
 A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing easy mapping of knobs and sliders.
 
+## Trademark
+Launch Conrtol is a registered trademark of Focusrite. This project is not affiliated with or endorsed by Focusrite.
+
 ## Japanese Documentation
 日本語のドキュメント（参考版）もあります。  
 [日本語ドキュメント](README_JP.md)
