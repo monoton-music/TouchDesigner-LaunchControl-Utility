@@ -3,8 +3,6 @@
 参考までにご覧ください。  
 より正確な情報については[README.md](README.md)をご覧ください。
 
-# TouchDesigner-LaunchControl-Utility
-
 Novation LaunchControl XLをTouchDesignerと統合し、ノブやスライダーのマッピングを簡単に行うためのユーティリティです。
 
 ## Compatibility
