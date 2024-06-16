@@ -1,29 +1,29 @@
 # TouchDesigner-LaunchControl-Utility
 
-A utility for integrating Novation LaunchControl XL with TouchDesigner, allowing easy mapping of knobs and sliders.
+A utility for integrating Novation Launch Control XL with TouchDesigner, allowing easy mapping of knobs and sliders.
 
 ## Japanese Documentation
 日本語のドキュメント（参考版）もあります。  
 [日本語ドキュメント](README_JP.md)
 
 ## Compatibility
-This tool is confirmed to work with Novation LaunchControl XL MK2. Other types of LaunchControl XL may not be compatible with this tool. The tox files and the example project file were made with TouchDesigner in version 2023.11600.
+This tool is confirmed to work with Novation Launch Control XL MK2. Other types of Launch Control XL may not be compatible with this tool. The tox files and the example project file were made with TouchDesigner in version 2023.11600.
 
 ## Usage
 For usage examples, see inside the `example.toe`.
 
-### Step 1: Connect LaunchControl XL to your computer
-- Set your LaunchControl XL to `User Mode 1`.
+### Step 1: Connect Launch Control XL to your computer
+- Set your Launch Control XL to `User Mode 1`.
 
 ### Step 2: Configure MIDI Device Mapper in TouchDesigner
 - Navigate to the `Dialogues` menu and select `MIDI Device Mapper`.
-- Create a new mapping and set the `Input Device` to `LaunchControl XL`.
+- Create a new mapping and set the `Input Device` to `Launch Control XL`.
 
 ### Step 3: Set up the Master Component
 - Place `launchcontrol_master.tox` at the same level or a higher level in the directory hierarchy of the path where you will use this utility within your TouchDesigner project. For example, place it in `project1`.
 
 ### Step 4: Configure the Master COMP
-- In `launchcontrol_master.tox`, set the `Device ID` and `MIDI Channel` of your LaunchControl XL.
+- In `launchcontrol_master.tox`, set the `Device ID` and `MIDI Channel` of your Launch Control XL.
 - If the utility doesn't work correctly, press `Reset` in `launchcontrol_master.tox`.
 
 ### Step 5: Set up the Selector Component
