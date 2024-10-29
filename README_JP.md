@@ -1,4 +1,4 @@
-# TouchDesigner-LaunchControl-Utility
+# TD-LaunchControl-Utility
 日本語版ドキュメントは英語版から情報を抜粋していたり、更新が遅れていたりすることがあります。
 参考までにご覧ください。  
 より正確な情報については[README.md](README.md)をご覧ください。
