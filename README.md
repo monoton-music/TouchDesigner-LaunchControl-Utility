@@ -1,4 +1,4 @@
-# TD-LaunchControl-Utility
+# td-launchcontrol-utility
 
 A utility for integrating Novation Launch Control XL with TouchDesigner, allowing easy mapping of knobs and sliders.
 
